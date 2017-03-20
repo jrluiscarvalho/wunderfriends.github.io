@@ -13,6 +13,7 @@ window.friends.push({
     '2017-02-20': "ainda to nesse curso kkk",
     '2017-03-01': "restify  ",
     '2017-03-02': "ESTREIA DE LOGAN :D",
-    '2017-03-16': "data streaming com node"
+    '2017-03-16': "data streaming com node",
+    '2017-03-19': "iniciando curso typescript"
   }
 });
